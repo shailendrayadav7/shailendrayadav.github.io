@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm Shailendra Yadav, a passionate Full Stack Developer with a knack for turning ideas into elegant solutions. Java, SpringBoot, and ReactJS are my tools of choice, and I thrive on the synergy of backend and frontend development.
+Hey there! I'm **Shailendra Yadav**, a passionate Full Stack Developer with a knack for turning ideas into elegant solutions. Java, SpringBoot, and ReactJS are my tools of choice, and I thrive on the synergy of backend and frontend development.
 
 ## What I Do
 
