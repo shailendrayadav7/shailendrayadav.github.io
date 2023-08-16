@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm [Your Name], a passionate Full Stack Developer with a knack for turning ideas into elegant solutions. Java, SpringBoot, and ReactJS are my tools of choice, and I thrive on the synergy of backend and frontend development.
+Hey there! I'm Shailendra Yadav, a passionate Full Stack Developer with a knack for turning ideas into elegant solutions. Java, SpringBoot, and ReactJS are my tools of choice, and I thrive on the synergy of backend and frontend development.
 
 ## What I Do
 
@@ -12,14 +12,14 @@ Hey there! I'm [Your Name], a passionate Full Stack Developer with a knack for t
 
 ## My Interests
 
-- 🛡️ Advocating for cybersecurity and staying updated on the latest news.
+- 🛡️ Advocating for software development and staying updated on the latest news.
 - 💼 Believing in the power of leadership and determination to overcome challenges.
 - 🏆 Firmly convinced that hard work and passion lead to remarkable achievements.
 
 ## Let's Connect!
 
-🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+🌟 Connect with me on [LinkedIn](www.linkedin.com/in/shailendra-yadav1).
 🐦 Follow me on [Twitter](https://twitter.com/yourusername).
-🌐 Explore more about me on [my personal website](https://www.yourwebsite.com).
+🌐 Explore more about me on [my personal website](https://github.com/shailendrayadav7).
 
 Looking forward to collaborating and coding the future together! Feel free to reach out anytime. 🤝
