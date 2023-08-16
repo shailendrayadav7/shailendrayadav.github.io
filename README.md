@@ -18,7 +18,7 @@ Hey there! I'm Shailendra Yadav, a passionate Full Stack Developer with a knack 
 
 ## Let's Connect!
 
-🌟 Connect with me on [LinkedIn](www.linkedin.com/in/shailendra-yadav1).
+🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/shailendra-yadav1).
 🐦 Follow me on [Twitter](https://twitter.com/yourusername).
 🌐 Explore more about me on [my personal website](https://github.com/shailendrayadav7).
 
